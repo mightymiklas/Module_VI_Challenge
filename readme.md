@@ -24,7 +24,7 @@ Please download the entire application folder to run the program properly.
 
 ![Compare the Average Sale Prices by Neighborhood](https://i.imgur.com/qfDPCiS.png)
 
-![Build an Interactive Neighborhood Map](https://i.imgur.com/FnQkA53.png)
+![Build an Interactive Neighborhood Map](https://i.imgur.com/KgifPVW.png)
 
 
 ---
