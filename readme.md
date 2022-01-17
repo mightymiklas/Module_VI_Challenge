@@ -18,7 +18,7 @@ Please download the entire application folder to run the program properly.
 ## Usage
 
 
-![Calculate Plot and Housing Units Per Year](https://i.imgur.com/e6Qqoc7.png)
+![Calculate Plot and Housing Units Per Year](https://i.imgur.com/BOV6hOm.png)
 
 ![Calculate and Plot the Average Sale Prices per Square Foot](https://i.imgur.com/pfOsmdv.png)
 
